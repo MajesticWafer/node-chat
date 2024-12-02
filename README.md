@@ -43,6 +43,7 @@ A minimal real-time chat application built with **Node.js** and **Socket.IO**. U
 
 - `server.js` - Backend server using Node.js and Socket.IO
 - `public/index.html` - Frontend with a simple chat UI
+- `public/remote.html` - Frontend that can be used on static domains
 - `public/` - Folder containing all static files (HTML, CSS, JS)
 
 ## Extend the Project
